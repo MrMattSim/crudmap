@@ -1,6 +1,6 @@
 # crud map
 
-based on (flask-crud-minimal-demo)[https://github.com/jjdenis/flask-crud-minimal-demo]
+based on [flask-crud-minimal-demo](https://github.com/jjdenis/flask-crud-minimal-demo)
 
 
 > ## flask-crud-minimal-demo
